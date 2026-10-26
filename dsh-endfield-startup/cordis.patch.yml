@@ -1,6 +1,0 @@
-# dsh-endfield-startup — DSH bundle patch
-#
-# 插入 Host 半侧；浏览器半侧由 package.json 的 dsh.client 自动组装。
-- insert:
-    - id: dsh-endfield-startup
-      name: dsh-endfield-startup
